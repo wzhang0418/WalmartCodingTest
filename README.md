@@ -42,7 +42,7 @@ The app is structured around **Clean Architecture**, split into 4 key layers:
     <th>Screenshot 2</th>
   </tr>
   <tr>
-    <td><img src="" alt="Screenshot 1" width="400" /></td>
-    <td><img src="" alt="Screenshot 2" width="400" /></td>
+    <td><img src="https://github.com/user-attachments/assets/c3421009-d639-470f-9bbd-11c16c5b75bc" alt="Screenshot" width="400" /></td>
+    <td><img src="https://github.com/user-attachments/assets/13b314e5-538f-4087-80be-1f5beeeb56b9" alt="Demo.gif" width="400" /></td>
   </tr>
 </table>
