@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WalmartApp</string>
+    <string name="name_and_region">%1$s, %2$s</string>
+    <string name="no_internet_connection">No Internet connection</string>
+</resources>
